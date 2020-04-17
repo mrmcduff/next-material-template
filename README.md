@@ -1,6 +1,6 @@
-# TypeScript Next.js example
+# Update
 
-This is a really simple project that shows the usage of Next.js with TypeScript.
+This is a simple starter repository (in progress) that can be used as a working launching point for a project that uses Typescript, Material UI, and NextJS, not all of which work together well initially, based on a fusion of other TS-NextJS starters and Material-NextJS starters.
 
 ## Deploy your own
 
