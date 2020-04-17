@@ -5,6 +5,7 @@ This is a simple starter repository (in progress) that can be used as a working 
 Code for this was adapted from:
 * [The mui-org next js example](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
 * [Mui-Org Next JS with Typescript](https://github.com/mui-org/material-ui/tree/master/examples/nextjs-with-typescript)
+* [NextJS + Typescript with a valid _app type](https://github.com/myeongjae-kim/next-js-with-typescript-valid-app-type)
 
 
 ## Deploy your own
