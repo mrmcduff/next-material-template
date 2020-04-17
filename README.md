@@ -2,6 +2,11 @@
 
 This is a simple starter repository (in progress) that can be used as a working launching point for a project that uses Typescript, Material UI, and NextJS, not all of which work together well initially, based on a fusion of other TS-NextJS starters and Material-NextJS starters.
 
+Code for this was adapted from:
+* [The mui-org next js example](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
+* [Mui-Org Next JS with Typescript](https://github.com/mui-org/material-ui/tree/master/examples/nextjs-with-typescript)
+
+
 ## Deploy your own
 
 Deploy the example using [ZEIT Now](https://zeit.co/now):
