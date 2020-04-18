@@ -1,15 +1,19 @@
+import Box from '@material-ui/core/Box';
+import Container from '@material-ui/core/Container';
 import Link from '../src/Link';
-import Layout from '../components/Layout'
+import Typography from '@material-ui/core/Typography';
 
-const IndexPage = () => (
-    <Layout title="Home | Next.js + TypeScript Example">
-        <h1>Hello Next.js 👋</h1>
-        <p>
-            <Link href="/about">
-                <a>About</a>
-            </Link>
-        </p>
-    </Layout>
-)
+const IndexPage = () => {
+    return (
+        <Container maxWidth="sm">
+            <Box my={4}>
+                <Typography variant="h3">Hello Next.js 👋</Typography>
+                <Link href="/about">
+                    About
+                </Link>
+            </Box>
+        </Container>
+    );
+}
 
 export default IndexPage
